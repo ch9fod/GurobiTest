@@ -142,3 +142,6 @@ Pool objective bound 3
 
 Optimal solution found (tolerance 1.00e-04)
 Best objective 3.000000000000e+00, best bound 3.000000000000e+00, gap 0.0000%
+
+Gurobi 7.0.2 (win64, Python) logging started 03/07/17 17:12:52
+
